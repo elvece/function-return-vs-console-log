@@ -5,5 +5,6 @@ var i = function(a,b){
 }
 
 var j = i(2,3);
-//prints to browers
-console.log(j);
+var k = i(4,5);
+//prints to browser
+console.log(j,k);
